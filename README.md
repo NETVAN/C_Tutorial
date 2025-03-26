@@ -1,2 +1,2 @@
-# C_Tutorial 
+# C_Programing basics
 Basic function of c
